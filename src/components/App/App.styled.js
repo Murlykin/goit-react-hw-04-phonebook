@@ -14,7 +14,7 @@ background-color: rgba(255, 255, 128, .5);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: 50% ;
-}
+
 `;
 
 export const Title = styled.h1`
